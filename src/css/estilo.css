@@ -20,7 +20,6 @@ main{
 }
 .logo:hover{
     letter-spacing: 1px;
-    padding: 20px;
     animation: acender 0.5s forwards;
 }
 .logo span{
